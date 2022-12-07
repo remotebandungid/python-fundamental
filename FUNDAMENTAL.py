@@ -23,4 +23,4 @@ else:
 print("Budi pulang kerumah")
 print("Menyampaikan hasilnya kepada ibu")
 
-# perulangan adaal
+# perulangan
