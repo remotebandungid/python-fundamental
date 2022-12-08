@@ -1,4 +1,4 @@
-# DICTIONARY TERDIRI DARI:
+# DICTIONARY
 
 dict = {
     'id': 1,
@@ -12,9 +12,6 @@ print(dict['id'])
 print(dict['name'])
 print(dict['username'])
 print(dict['email'])
-
-
-
 
 # DICTIONARY DIDALAM DICTIONARY
 
